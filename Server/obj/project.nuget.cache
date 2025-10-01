@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "otTMh3wODbX5OlbJtuoCsDZxQNxyQ/CsjcCKFP4BAr+AMsrTEEsDOOn+YXfRZLrEeN1IE3P3cj64+Yju1hVNGQ==",
+  "success": true,
+  "projectFilePath": "E:\\TeleMessage\\TeleMessage\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zz555\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
